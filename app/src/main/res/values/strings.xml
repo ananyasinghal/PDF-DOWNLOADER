@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TOD0APPLICATION</string>
+    <string name="your_task">Your Task</string>
+    <string name="x">X</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="enter_task">Enter Task</string>
+    <string name="priority">Priority</string>
+    <string name="save">Save</string>
+    <string name="to_do">To Do</string>
+    <string name="manage_your_day">Manage Your Day</string>
+    <string name="update_details">Update Details</string>
+    <string name="enterask">Enter Task</string>
+    <string name="prioritys">Priority</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="priority_high">Priority - High</string>
+    <string name="your_task_will_go_here">your task will go here</string>
+</resources>
